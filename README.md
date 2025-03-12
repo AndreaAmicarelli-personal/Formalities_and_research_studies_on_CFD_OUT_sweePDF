@@ -1,4 +1,4 @@
-Publications on CFD-OUT-sweePDF:
+Publications on the code CFD-OUT-sweePDF (Amicarelli et al.):
 
 https://doi.org/10.1080/10618562.2025.2469497 ;
 Amicarelli A.; 2025; A Lagrangian RANS CFD-SPH code for turbulent flows with pollutant transport and applications to Outdoor/Indoor/Duct Air Quality; International Journal of Computational Fluid Dynamics
