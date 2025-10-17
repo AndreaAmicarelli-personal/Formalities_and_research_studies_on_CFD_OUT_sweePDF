@@ -1,7 +1,9 @@
 Publications on the code CFD-OUT-sweePDF (Amicarelli et al.):
 
-https://doi.org/10.1080/10618562.2025.2469497 ;
-Amicarelli A.; 2025; A Lagrangian RANS CFD-SPH code for turbulent flows with pollutant transport and applications to Outdoor/Indoor/Duct Air Quality; International Journal of Computational Fluid Dynamics
+*A. Amicarelli, "RANS SPH CFD for Air Quality: a closure on the turbulent Schmidt number constrained to Taylor’s theory, grid turbulence and a shear flow", 
+International Journal of Computational Fluid Dynamics, pp.1-29; https://doi.org/10.1080/10618562.2025.2566656, 2025, published online
+*A. Amicarelli, “A Lagrangian RANS CFD-SPH code for turbulent flows with pollutant transport and applications to Outdoor/Indoor/Duct Air Quality,” 
+International Journal of Computational Fluid Dynamics, vol. 38, no. 5, p. 339–376; https://doi.org/10.1080/10618562.2025.2469497, 2024
 
 https://www.researchgate.net/profile/Andrea-Amicarelli ;
 https://scholar.google.com/citations?hl=it&user=IP_pY9gAAAAJ ;
