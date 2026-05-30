@@ -1,4 +1,4 @@
-Publications on the code CFD-OUT-sweePDF (Amicarelli et al.):
+Publications on the code CFD-OUT-sweePDF (Fang et al.):
 
 *A. Amicarelli, 2025; RANS SPH CFD for Air Quality in and around Urban 
 Canopies; paper preprint; protocol RS2502, pp.1-27.
