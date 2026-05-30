@@ -19,3 +19,5 @@ http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=25648807300&
 https://orcid.org/0000-0001-8143-4721 ;
 www.linkedin.com/in/andrea-amicarelli-938aba34 ;
 independent.academia.edu/AndreaAmicarelli 
+
+Update 2026: due to a Copyright transfer, the synthetic Copyright notice of the code (versions v.1.0.0, v.2.0.0, v.3.0.0) is updated as follows: 'CFD-OUT-sweePDF (Fang et al.)'
