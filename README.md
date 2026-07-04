@@ -1,7 +1,8 @@
-Publications on the code CFD-OUT-sweePDF (Fang et al.):
+Publications on the code CFD-OUT-sweePDF:
 
-*A. Amicarelli, 2025; RANS SPH CFD for Air Quality in and around Urban 
-Canopies; paper preprint; protocol RS2502, pp.1-27.
+*Amicarelli, A. (2026). RANS SPH CFD for Air Quality in and around Urban 
+Canopies. International Journal of Computational Fluid Dynamics, pp.1–24. 
+https://doi.org/10.1080/10618562.2026.2692366
 
 *Amicarelli, A. (2025). RANS SPH CFD for Air Quality: A Closure on the 
 Turbulent Schmidt Number Constrained to Taylor’s Theory, Grid Turbulence and a 
@@ -18,6 +19,8 @@ https://scholar.google.com/citations?hl=it&user=IP_pY9gAAAAJ ;
 http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=25648807300&zone= ;
 https://orcid.org/0000-0001-8143-4721 ;
 www.linkedin.com/in/andrea-amicarelli-938aba34 ;
-independent.academia.edu/AndreaAmicarelli 
+independent.academia.edu/AndreaAmicarelli
 
-Update 2026: due to a Copyright transfer, the synthetic Copyright notice of the code (versions v.1.0.0, v.2.0.0, v.3.0.0) is updated as follows: 'CFD-OUT-sweePDF (Fang et al.)'
+Update 2026: due to a Copyright transfer, the synthetic Copyright notice of the 
+code (versions v.1.0.0, v.2.0.0, v.3.0.0) is updated as follows: 
+'CFD-OUT-sweePDF (Fang et al.)'
