@@ -1,7 +1,7 @@
 Publications on the code CFD-OUT-sweePDF:
 
-*Amicarelli, A. (2026). RANS SPH CFD for Air Quality in and around Urban 
-Canopies. International Journal of Computational Fluid Dynamics, pp.1–24. 
+*Amicarelli, A. (2025). RANS SPH CFD for Air Quality in and Around Urban 
+Canopies. International Journal of Computational Fluid Dynamics, 39(8), 449–472.
 https://doi.org/10.1080/10618562.2026.2692366
 
 *Amicarelli, A. (2025). RANS SPH CFD for Air Quality: A Closure on the 
